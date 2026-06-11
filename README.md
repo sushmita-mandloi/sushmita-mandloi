@@ -57,16 +57,31 @@ I believe data should do more than present numbers — it should help businesses
 
 ## 💪 Core Strengths
 
-| Strength | Description |
-|-----------|------------|
-| 📊 Data Analytics | Converting complex datasets into actionable insights and business value |
-| 🗄️ SQL Expertise | Writing optimized queries and performing advanced data analysis |
-| 📈 Business Intelligence | Creating impactful dashboards and visual reports using Power BI |
-| 🤖 Machine Learning | Building predictive models and exploring AI-driven solutions |
-| 🧩 Problem Solving | Tackling challenges with analytical and structured thinking |
-| 🤝 Team Collaboration | Collaborating effectively and contributing to team success |
-| 🌱 Continuous Learning | Constantly upgrading skills through projects and certifications |
-| 🚀 Open Source | Contributing to community projects and collaborative development |
+### 📊 Data Analytics
+Transforming raw data into meaningful insights through analysis, visualization, and storytelling to support data-driven decisions.
+
+### 🗄️ SQL Expertise
+Writing efficient and optimized queries, performing data extraction, cleaning, and advanced analytical reporting.
+
+### 📈 Business Intelligence
+Designing interactive dashboards and reports using Power BI to uncover trends and business opportunities.
+
+### 🤖 Machine Learning
+Building predictive models and applying data-driven techniques to solve real-world challenges.
+
+### 🧩 Problem Solving
+Approaching complex problems with analytical thinking, logical reasoning, and structured solutions.
+
+### 🤝 Team Collaboration
+Working effectively in collaborative environments, sharing knowledge, and contributing to team success.
+
+### 🚀 Open Source Contribution
+Actively contributing to community-driven projects and collaborating with developers through open-source initiatives.
+
+### 🌱 Continuous Learning
+Continuously improving technical skills through projects, certifications, problem-solving, and hands-on learning.
+
+
 
 ## 💼 Professional Journey
 
