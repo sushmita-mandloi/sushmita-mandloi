@@ -1,174 +1,159 @@
-<h1 align="center">Hi 👋, I'm Sushmita Mandloi</h1>
+<div align="center">
 
-<h3 align="center">
-📊 Data Analyst • 🤖 AI Enthusiast • 💻 SQL Specialist
-</h3>
+# Hi 👋, I'm Sushmita Mandloi
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analyst;AI+Enthusiast;SQL+Specialist;Power+BI+Developer;Future+AI+Engineer"/>
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sushmita-mandloi-6010112a8/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sushmitamandloi05@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sushmita-mandloi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Analytics-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge"/>
-</p>
-
-<p align="center">
+### Integrated M.Tech · CSE (Computational & Data Science) · VIT Bhopal University
 📍 Ashta, Madhya Pradesh, India
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sushmita-mandloi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p>
+![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-7c3aed?style=for-the-badge&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/DATA%20SCIENTIST-0e7490?style=for-the-badge&logoColor=white)
+![SQL Expert](https://img.shields.io/badge/SQL%20EXPERT-059669?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-b45309?style=for-the-badge&logoColor=white)
+![GSSOC 2026](https://img.shields.io/badge/GSSOC-2026-9d174d?style=for-the-badge&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmita-mandloi-6010112a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushmita-mandloi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushmitamandloi05@gmail.com)
+[![Phone](https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9244168599)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sushmita-mandloi&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 💻 About Me
+## 👩‍💻 About Me
 
-I'm an aspiring Data Analyst and AI enthusiast pursuing an Integrated M.Tech at VIT Bhopal University. Passionate about data, technology, and innovation, I enjoy uncovering insights from complex datasets and leveraging analytics to solve real-world problems.
+I'm a final-year **Integrated M.Tech student** specializing in Computational and Data Science at VIT Bhopal University, actively targeting **Data Analyst and Data Science roles**. My technical toolkit spans Python, SQL, Power BI, and Excel — and I love turning raw data into meaningful stories.
 
-Over time, I have developed a strong foundation in SQL, Python, Power BI, and Machine Learning through hands-on projects, problem-solving, certifications, and open-source contributions. I believe that data should do more than present numbers—it should empower organizations to make smarter and more impactful decisions.
+I hold a **HackerRank 5-Star SQL badge** and Advanced SQL certification, completed a Data Science internship at CodeSoft, and am currently contributing to open-source projects as a **GSSoC 2026** contributor.
 
-Beyond technical skills, I value collaboration, continuous learning, and adaptability. Whether I'm analyzing customer behavior, building predictive models, creating dashboards, or contributing to the developer community, I strive to combine analytical thinking with creativity to deliver meaningful results.
+Beyond tech, I'm a creative soul — I enjoy **painting, dance, and art & craft**. I believe creativity and data thinking go hand in hand!
 
-Over the past year, I have strengthened my analytical skills by solving SQL problems, earning a HackerRank 5-Star SQL Badge, completing the Quantium Data Analytics Job Simulation, and building end-to-end data projects using Python, SQL, and Power BI.                                           
+---
 
-I believe data should do more than present numbers — it should help businesses make smarter decisions.
+## ⚡ Core Strengths
 
-🚀 Open to internships, collaborations, and opportunities in Data Analytics.
+| | | |
+|---|---|---|
+| 🔍 **Data Storyteller**<br>Transforming raw datasets into clear, actionable insights using Python, SQL, and Power BI. | 🧩 **Problem Solver**<br>Analytical thinker who tackles complex data problems with structured, creative solutions. | |
+| 🤝 **Collaborative Worker**<br>Skilled at working in team environments and contributing to open-source projects globally. | 📈 **Lifelong Learner**<br>Constantly upskilling — from SQL certifications to ML models and BI dashboards. | |
 
-## 💪 Core Strengths
-
-### 📊 Data Analytics
-Transforming raw data into meaningful insights through analysis, visualization, and storytelling to support data-driven decisions.
-
-### 🗄️ SQL Expertise
-Writing efficient and optimized queries, performing data extraction, cleaning, and advanced analytical reporting.
-
-### 📈 Business Intelligence
-Designing interactive dashboards and reports using Power BI to uncover trends and business opportunities.
-
-### 🤖 Machine Learning
-Building predictive models and applying data-driven techniques to solve real-world challenges.
-
-### 🧩 Problem Solving
-Approaching complex problems with analytical thinking, logical reasoning, and structured solutions.
-
-### 🤝 Team Collaboration
-Working effectively in collaborative environments, sharing knowledge, and contributing to team success.
-
-### 🚀 Open Source Contribution
-Actively contributing to community-driven projects and collaborating with developers through open-source initiatives.
-
-### 🌱 Continuous Learning
-Continuously improving technical skills through projects, certifications, problem-solving, and hands-on learning.
-
-
+---
 
 ## 💼 Professional Journey
 
-### 🌐 GSSoC 2026 Contributor
+**Data Science Intern** — *CodeSoft* (2024 · Internship)
+Applied Python and ML techniques to real-world datasets, built predictive models, and performed end-to-end exploratory data analysis to derive business insights.
+`PYTHON` `EDA` `MACHINE LEARNING` `SQL`
 
-Contributing to open-source projects, improving documentation, fixing issues, and collaborating with developers worldwide.
+**GSSoC 2026 Contributor** — *GirlScript Summer of Code* (2026 · Open Source Contribution)
+Contributing to real-world open source projects, enhancing coding skills, collaborating with developers worldwide, and building a portfolio of production-level code.
+`OPEN SOURCE` `COLLABORATIVE DEVELOPMENT` `CODE REVIEW`
 
-### 📊 Data Science Intern | CodeSoft
-
-Dec 2024 – Feb 2025
-
-- Built machine learning and analytics workflows
-- Worked on ETL and data preprocessing
-- Created business insights through visualization
-
-### 🤝 NSS Club Volunteer
-
-Community service and awareness activities.
-
-### 🌱 Kanchan Education & Welfare Society
-
-Educational and social welfare initiatives.
-
-**## 🎓 Education & Certifications
-
-### 🎓 Integrated M.Tech (CSE)
-
-VIT Bhopal University
-
-2022 – 2027
-
-### 🏆 Certifications
-
-⭐ SQL (Advanced) – HackerRank
-
-📊 Quantium Data Analytics Job Simulation – Forage
-
-🧠 Dynamic Programming Camp – AlgoUniversity
-
-🤖 Applied Machine Learning in Python – Coursera
-
-🐍 Python Essentials – Vityarthi**
-
-## 🚀 Featured Projects
-
-### 🛍️ Customer Shopping Behaviour Analysis
-
-Python • SQL • Power BI
-
-### 🎬 Movie Rating Prediction
-
-Python • Pandas • Scikit-Learn
-
-
-## 📈 Development Insights
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sushmita-mandloi&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmita-mandloi&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sushmita-mandloi&theme=tokyonight"/>
-
-</p>       
-
-<h2 align="center">
+**Data Analytics Portfolio Builder** — *Self-Initiated Project* (2024 – Present)
+Building an end-to-end data analytics project using Python, SQL, and Power BI — covering data cleaning, EDA, SQL querying, and interactive dashboards.
+`POWER BI` `PYTHON` `SQL` `DASHBOARD`
 
 ---
 
-## 🤝 Let's Connect and Collaborate!
+## 📂 Portfolio Projects
 
-I'm always excited to discuss new ideas, projects, and opportunities in the tech space.
+### 🛍️ Customer Shopping Behavior Analysis
+End-to-end analytics — data cleaning, SQL querying, EDA in Python, and Power BI dashboard for business insights.
+`PYTHON` `SQL` `POWER BI`
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sushmita-mandloi-6010112a8/">LinkedIn</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:sushmitamandloi05@gmail.com">Email</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sushmita-mandloi">GitHub</a>
-</p>
+### 🎬 Movie Rating Prediction
+Random Forest Regression model to predict movie ratings from metadata, cast, and genre features.
+`RANDOM FOREST` `SKLEARN` `PANDAS`
 
-<h3 align="center">
-👀 Thank you for visiting my profile! 👀
-</h3>
+---
 
+## 🛠️ Technical Skills
+
+**💻 Programming Languages**
+![Python](https://img.shields.io/badge/Python-1c2a4a?style=flat-square&logo=python&logoColor=60a5fa)
+![SQL](https://img.shields.io/badge/SQL-0c2a3f?style=flat-square&logo=postgresql&logoColor=38bdf8)
+![C++](https://img.shields.io/badge/C++-1a1400?style=flat-square&logo=cplusplus&logoColor=fbbf24)
+![Java](https://img.shields.io/badge/Java-1a1400?style=flat-square&logo=java&logoColor=fbbf24)
+
+**📊 Data Analysis & BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-2a0f1e?style=flat-square&logo=powerbi&logoColor=f9a8d4)
+![Excel](https://img.shields.io/badge/Excel-0f2a1e?style=flat-square&logo=microsoftexcel&logoColor=34d399)
+![Pandas](https://img.shields.io/badge/Pandas-1c2a4a?style=flat-square&logo=pandas&logoColor=60a5fa)
+![NumPy](https://img.shields.io/badge/NumPy-1c2a4a?style=flat-square&logo=numpy&logoColor=60a5fa)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1c2a4a?style=flat-square&logoColor=60a5fa)
+![Seaborn](https://img.shields.io/badge/Seaborn-1c2a4a?style=flat-square&logoColor=60a5fa)
+
+**🤖 Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a0c40?style=flat-square&logo=scikitlearn&logoColor=c4b5fd)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-1a0c40?style=flat-square&logoColor=c4b5fd)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0c40?style=flat-square&logo=tensorflow&logoColor=c4b5fd)
+![Keras](https://img.shields.io/badge/Keras-1a0c40?style=flat-square&logo=keras&logoColor=c4b5fd)
+
+**🗄️ Databases**
+![MySQL](https://img.shields.io/badge/MySQL-0c2a3f?style=flat-square&logo=mysql&logoColor=38bdf8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c2a3f?style=flat-square&logo=postgresql&logoColor=38bdf8)
+![Advanced SQL](https://img.shields.io/badge/Advanced%20SQL-0c2a3f?style=flat-square&logoColor=38bdf8)
+
+**🧰 Tools & Platforms**
+![Jupyter](https://img.shields.io/badge/Jupyter-0f2a1e?style=flat-square&logo=jupyter&logoColor=34d399)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-0f2a1e?style=flat-square&logo=github&logoColor=34d399)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f2a1e?style=flat-square&logo=visualstudiocode&logoColor=34d399)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0f2a1e?style=flat-square&logo=googlecolab&logoColor=34d399)
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Integrated M.Tech** — VIT Bhopal University
+CSE – Computational & Data Science · 2020 – 2027 · Final Year
+
+🏆 **HackerRank 5-Star SQL** — HackerRank
+Advanced SQL Badge · 2024 ⭐⭐⭐⭐⭐
+
+📊 **Power BI Analytics** — Microsoft · 2024
+🐍 **Python Programming** — HackerRank · 2024
+🤖 **Data Science Internship** — CodeSoft · 2024
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushmita-mandloi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12102a&title_color=a78bfa&icon_color=38bdf8&text_color=cbd5e1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushmita-mandloi&layout=compact&theme=tokyonight&hide_border=true&bg_color=12102a&title_color=a78bfa&text_color=cbd5e1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushmita-mandloi&theme=tokyonight&hide_border=true&background=12102a&ring=7c3aed&fire=38bdf8&currStreakLabel=a78bfa)
+
+</div>
+
+---
+
+## ✨ Personal Traits
+
+- 🎨 **Creative Mind** — Love painting, dance & art — creativity fuels my data thinking too!
+- 🔄 **Adaptable** — Thriving in fast-changing environments and embracing new challenges.
+- 🤝 **Team Player** — Collaborating effectively across diverse teams and open-source communities.
+- 📚 **Lifelong Learner** — Always upskilling — SQL, ML, BI, or anything data-driven!
+- 🎯 **Goal-Oriented** — Setting clear placement targets and working methodically to hit them.
+- 💡 **Curious Analyst** — Always asking "why?" behind data patterns — the mark of a true analyst.
+
+---
+
+<div align="center">
+
+## 📡 Let's Connect and Collaborate!
+
+Open to Data Analyst & Data Science roles, internships, and collaborations. Let's build something data-driven together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmita-mandloi-6010112a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushmita-mandloi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushmitamandloi05@gmail.com)
+[![Phone](https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9244168599)
+
+😊 *Thank you for visiting my profile!*
+
+</div>
