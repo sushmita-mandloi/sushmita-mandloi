@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="./profile.jpg" width="220"/>
-
-# Hi 👋, I'm Sushmita Mandloi
-
-</div>
-
-<img src="./profile.png" width="220"/>
-
 
 <div align="center">
 
@@ -151,11 +141,6 @@ Python • SQL • Power BI
 
 Python • Pandas • Scikit-Learn
 
-### 🤖 Upcoming Projects
-
-InsightMate
-
-RAG-Powered Document Q&A Chatbot 
 
 ## 📈 Development Insights
 
