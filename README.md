@@ -1,9 +1,8 @@
+# Hi 👋, I'm Sushmita Mandloi
 
 <div align="center">
 
 <img src="./profile.png" width="220"/>
-
-# Hi 👋, I'm Sushmita Mandloi
 
 ### 📊 Data Analyst • 🤖 AI Enthusiast • 💻 SQL Specialist
 
@@ -25,19 +24,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Analytics-1E90FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge"/>
 
 </p>
 
@@ -57,7 +43,7 @@
 
 <p align="center">
 
-📍 Ashta, Madhya Pradesh, India
+      📍 Ashta, Madhya Pradesh, India
 
 </p>
 
