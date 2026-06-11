@@ -43,23 +43,30 @@
 
 ## 💻 About Me
 
+I'm an aspiring Data Analyst and AI enthusiast pursuing an Integrated M.Tech at VIT Bhopal University. Passionate about data, technology, and innovation, I enjoy uncovering insights from complex datasets and leveraging analytics to solve real-world problems.
+
+Over time, I have developed a strong foundation in SQL, Python, Power BI, and Machine Learning through hands-on projects, problem-solving, certifications, and open-source contributions. I believe that data should do more than present numbers—it should empower organizations to make smarter and more impactful decisions.
+
+Beyond technical skills, I value collaboration, continuous learning, and adaptability. Whether I'm analyzing customer behavior, building predictive models, creating dashboards, or contributing to the developer community, I strive to combine analytical thinking with creativity to deliver meaningful results.
+
+Over the past year, I have strengthened my analytical skills by solving SQL problems, earning a HackerRank 5-Star SQL Badge, completing the Quantium Data Analytics Job Simulation, and building end-to-end data projects using Python, SQL, and Power BI.                                           
+
 I believe data should do more than present numbers — it should help businesses make smarter decisions.
-
-I'm Sushmita Mandloi, an Integrated M.Tech student at VIT Bhopal University with a strong interest in Data Analytics, Business Intelligence, and Machine Learning.
-
-Over the past year, I have strengthened my analytical skills by solving SQL problems, earning a HackerRank 5-Star SQL Badge, completing the Quantium Data Analytics Job Simulation, and building end-to-end data projects using Python, SQL, and Power BI.
 
 🚀 Open to internships, collaborations, and opportunities in Data Analytics.
 
 ## 💪 Core Strengths
 
-| 📊 Data Analytics | 🗄️ SQL Expertise | 📈 Data Visualization |
-|------------------|------------------|----------------------|
-| Transforming data into insights | Writing optimized queries | Building dashboards |
-
-| 🤖 Machine Learning | 🧩 Problem Solving | 🤝 Team Collaboration |
-|--------------------|-------------------|---------------------|
-| Building predictive models | Analytical thinking | Effective teamwork |
+| Strength | Description |
+|-----------|------------|
+| 📊 Data Analytics | Converting complex datasets into actionable insights and business value |
+| 🗄️ SQL Expertise | Writing optimized queries and performing advanced data analysis |
+| 📈 Business Intelligence | Creating impactful dashboards and visual reports using Power BI |
+| 🤖 Machine Learning | Building predictive models and exploring AI-driven solutions |
+| 🧩 Problem Solving | Tackling challenges with analytical and structured thinking |
+| 🤝 Team Collaboration | Collaborating effectively and contributing to team success |
+| 🌱 Continuous Learning | Constantly upgrading skills through projects and certifications |
+| 🚀 Open Source | Contributing to community projects and collaborative development |
 
 ## 💼 Professional Journey
 
