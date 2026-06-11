@@ -132,19 +132,21 @@ Python • Pandas • Scikit-Learn
 
 <h2 align="center">
 
-🤝 Let's Connect & Collaborate!
+---
 
-</h2>
+## 🤝 Let's Connect and Collaborate!
+
+I'm always excited to discuss new ideas, projects, and opportunities in the tech space.
 
 <p align="center">
-
-I'm always excited to discuss Data Analytics, SQL, AI, and new opportunities.
-
+<a href="https://www.linkedin.com/in/sushmita-mandloi-6010112a8/">LinkedIn</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sushmitamandloi05@gmail.com">Email</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sushmita-mandloi">GitHub</a>
 </p>
 
 <h3 align="center">
-
-✨ Turning Data Into Insights & Ideas Into Impact ✨
-
+👀 Thank you for visiting my profile! 👀
 </h3>
 
