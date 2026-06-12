@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./profile.png" width="220"/>
@@ -6,12 +7,9 @@
 
 ### Integrated M.Tech • Computer Science & Engineering (Computational & Data Science)
 
-### VIT Bhopal University
-
 📍 Ashta, Madhya Pradesh, India
 
 </div>
-
 ![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-2563eb?style=for-the-badge)
 
 ![Business Intelligence](https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-1d4ed8?style=for-the-badge)
@@ -20,111 +18,105 @@
 
 ![Power BI](https://img.shields.io/badge/POWER%20BI-60a5fa?style=for-the-badge)
 
-![GSSoC 2026](https://img.shields.io/badge/GSSOC-2026-1e40af?style=for-the-badge)
+![GSSoC 2026](https://img.shields.io/badge/GSSOC%202026-1e40af?style=for-the-badge)
 
+# 🏅 Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmita-mandloi-6010112a8/)
+⭐ HackerRank 5-Star SQL Badge
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushmita-mandloi)
+🌐 Contributor – GirlScript Summer of Code (GSSoC) 2026
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushmitamandloi05@gmail.com)
+📊 Completed Quantium Data Analytics Job Simulation
 
+💡 Solved 50+ SQL Problems on LeetCode
+
+🚀 Built End-to-End Data Analytics Projects using Python, SQL & Power BI
 ![](https://komarev.com/ghpvc/?username=sushmita-mandloi&style=for-the-badge&color=2563eb)
-
 
 # 👩‍💻 About Me
 
 I believe data should do more than present numbers — it should help businesses make smarter decisions.
 
-I'm Sushmita Mandloi, an Integrated M.Tech student specializing in Computational and Data Science at VIT Bhopal University.
+I'm **Sushmita Mandloi**, an Integrated M.Tech student specializing in **Computational and Data Science** at **VIT Bhopal University**. Passionate about **Data Analytics, Business Intelligence, SQL, Python, and Machine Learning**, I enjoy transforming raw data into actionable insights that drive business decisions.
 
-I am passionate about Data Analytics, Business Intelligence, SQL, Python, and Machine Learning.
+Over time, I have developed hands-on experience in **Python, SQL, Power BI, Excel, Pandas, NumPy, and Machine Learning** through projects, certifications, internships, and coding challenges.
 
-I have earned a HackerRank 5-Star SQL Badge, completed the Quantium Data Analytics Job Simulation, contributed to GirlScript Summer of Code (GSSoC) 2026, and built end-to-end analytics projects focused on solving real-world business problems.
+I have earned a **HackerRank 5-Star SQL Badge**, completed the **Quantium Data Analytics Job Simulation**, contributed to **GirlScript Summer of Code (GSSoC) 2026**, and built end-to-end analytics projects focused on solving real-world business problems.
 
-Beyond technology, I enjoy painting, dance, and art & craft, believing that creativity and analytical thinking together lead to innovative solutions.
-
+Beyond technology, I enjoy **painting, dance, and art & craft**, believing that creativity and analytical thinking together lead to innovative solutions.
 
 # 💪 Core Strengths
 
-| 📊 Data Storyteller | 🧩 Problem Solver |
-|--------------------|-------------------|
-| Transforming raw datasets into meaningful insights. | Solving complex challenges using analytical thinking. |
+### 📊 Data Storyteller
 
-| 📈 Business Intelligence | 🤝 Collaborative Worker |
-|-------------------------|-------------------------|
-| Building dashboards that support smarter decisions. | Working effectively in teams and collaborative environments. |
+Transforming raw datasets into meaningful insights through analysis, visualization, and business-focused storytelling.
 
-| 🚀 Open Source Contributor | 📚 Continuous Learner |
-|--------------------------|----------------------|
-| Contributing to community-driven projects. | Constantly improving through projects and certifications. |
+---
 
+### 🧩 Problem Solver
+
+Approaching complex challenges with analytical thinking, logical reasoning, and structured solutions.
+
+---
+
+### 📈 Business Intelligence Enthusiast
+
+Building dashboards and reports that support data-driven business decisions.
+
+---
+
+### 🤝 Collaborative Worker
+
+Working effectively in teams, open-source communities, and collaborative environments.
+
+---
+
+### 🚀 Open Source Contributor
+
+Contributing to real-world projects while continuously improving technical and development skills.
+
+---
+
+### 📚 Continuous Learner
+
+Always exploring new technologies, tools, and industry best practices.   
 
 # 💼 Professional Journey
 
-## 🌐 GSSoC 2026 Contributor
+### 🌐 GirlScript Summer of Code (GSSoC) 2026
 
-Contributing to real-world open-source projects and collaborating with developers worldwide.
+**Contributor | May 2026 – Present**
 
-`OPEN SOURCE` `GIT` `GITHUB`
+Contributing to open-source projects, collaborating with developers worldwide, improving project quality, and gaining real-world software development experience.
 
----
-
-## 📊 Data Science Intern — CodeSoft
-
-Worked on machine learning, EDA, and predictive analytics projects.
-
-`PYTHON` `EDA` `SQL` `ML`
+**Skills:** Git • GitHub • Open Source • Collaboration
 
 ---
 
-## 🚀 Data Analytics Portfolio Builder
+### 📊 Data Science Intern – CodeSoft
 
-Building end-to-end analytics projects using Python, SQL, and Power BI.
+**Internship Experience**
 
-`POWER BI` `PYTHON` `SQL`
+Worked on machine learning and analytics projects involving data preprocessing, exploratory data analysis, predictive modeling, and visualization.
 
-
-# 📂 Featured Projects
-
-## 🛍️ Customer Shopping Behaviour Analysis
-
-End-to-end analytics project involving SQL, Python, EDA, and Power BI dashboards.
-
-`PYTHON` `SQL` `POWER BI`
+**Skills:** Python • SQL • Machine Learning • Data Analysis
 
 ---
 
-## 🎬 Movie Rating Prediction
+### 📈 Quantium Data Analytics Job Simulation – Forage
 
-Built a Random Forest model to predict movie ratings.
+**Virtual Experience Program**
 
-`SCIKIT-LEARN` `PANDAS` `NUMPY`
+Analyzed customer purchasing behavior, performed customer segmentation, evaluated store trial performance, and generated business recommendations using data-driven insights.
 
-
-# 🛠️ Technical Skills
-
-### Programming Languages
-Python • SQL • Java • C++
-
-### Data Analytics
-Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn
-
-### Machine Learning
-Scikit-Learn • TensorFlow • Keras
-
-### Databases
-MySQL • PostgreSQL
-
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+**Skills:** Data Cleaning • Data Analysis • Visualization • Business Insights
 
 
 # 🎓 Education & Certifications
 
-### Integrated M.Tech
+### 🎓 Integrated M.Tech
 
-Computer Science & Engineering (Computational & Data Science)
+**Computer Science & Engineering (Computational & Data Science)**
 
 🏫 VIT Bhopal University
 
@@ -134,7 +126,7 @@ Computer Science & Engineering (Computational & Data Science)
 
 ---
 
-### Certifications
+## 🏆 Certifications
 
 ⭐ SQL (Advanced) – HackerRank
 
@@ -147,42 +139,86 @@ Computer Science & Engineering (Computational & Data Science)
 🐍 Python Essentials – Vityarthi
 
 
-# 🏆 Achievements
+# 🛠️ Technical Skills
 
-⭐ HackerRank 5-Star SQL Badge
+### 💻 Programming Languages
 
-🌐 Contributor – GirlScript Summer of Code 2026
+Python • SQL • Java • C++
 
-📊 Completed Quantium Data Analytics Job Simulation
+---
 
-💡 Solved 50+ SQL Problems on LeetCode
+### 📊 Data Analytics & Business Intelligence
 
-🚀 Built End-to-End Data Analytics Projects using Python, SQL & Power BI
+Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn
 
+---
 
-# 📊 GitHub Statistics
+### 🤖 Machine Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushmita-mandloi&show_icons=true&theme=tokyonight)
+Scikit-Learn • TensorFlow • Keras
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushmitamandloi&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sushmita-mandloi&theme=tokyonight)
+### 🗄️ Databases
+
+MySQL • PostgreSQL
+
+---
+
+### ⚙️ Tools & Platforms
+
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab  
 
 
 # ✨ Personal Traits
 
-🎨 Creative Mind
+### 🎨 Creative Mind
 
-🔄 Adaptable
+Love painting, dance, and art & craft — creativity fuels my analytical thinking.
 
-🤝 Team Player
+---
 
-📚 Lifelong Learner
+### 🔄 Adaptable
 
-🎯 Goal-Oriented
+Thriving in dynamic environments and embracing new challenges.
 
-💡 Curious Analyst
+---
 
+### 🤝 Team Player
+
+Collaborating effectively across diverse teams and communities.
+
+---
+
+### 📚 Lifelong Learner
+
+Always exploring new technologies and expanding my skill set.
+
+---
+
+### 🎯 Goal-Oriented
+
+Focused on achieving meaningful goals through consistency and dedication.
+
+---
+
+### 💡 Curious Analyst
+
+Passionate about understanding the story behind the data and uncovering valuable insights.
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sushmita-mandloi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmita-mandloi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sushmita-mandloi&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <div align="center">
 
