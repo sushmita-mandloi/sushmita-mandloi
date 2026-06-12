@@ -1,25 +1,5 @@
-📸 Photo
+<div align="center">
 
-👋 Hi, I'm Sushmita Mandloi
+<img src="./profile.png" width="220"/>
 
-🏅 Achievements
-
-⌨️ Typing Animation
-
-🔗 LinkedIn • Email • GitHub
-
-👩‍💻 About Me
-
-💪 Core Strengths
-
-💼 Professional Journey
-
-🎓 Education & Certifications
-
-🛠️ Technical Skills
-
-✨ Personal Traits
-
-📊 GitHub Stats
-
-🤝 Let's Connect and Collaborate!
+# Hi 👋, I'm Sushmita Mandloi
