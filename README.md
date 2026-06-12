@@ -3,10 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="./profile.jpg" width="200">
-</div>
+  <a href="https://www.linkedin.com/in/sushmita-mandloi-6010112a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-8e2de2?style=for-the-badge">
-  ...
+  <a href="mailto:sushmitamandloi05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://github.com/sushmita-mandloi">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
