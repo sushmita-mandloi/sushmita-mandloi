@@ -6,10 +6,15 @@
 📍 Ashta, Madhya Pradesh, India
 <br><br>
 ![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-2563eb?style=for-the-badge)
+  
 ![SQL Expert](https://img.shields.io/badge/SQL%20EXPERT-1d4ed8?style=for-the-badge)
+
 ![Power BI](https://img.shields.io/badge/POWER%20BI-3b82f6?style=for-the-badge)
+
 ![Data Science](https://img.shields.io/badge/DATA%20SCIENCE-60a5fa?style=for-the-badge)
+
 ![GSSoC 2026](https://img.shields.io/badge/GSSOC%202026-1e40af?style=for-the-badge)
+
 <br><br>
 <a href="https://www.linkedin.com/in/sushmita-mandloi-6010112a8/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
