@@ -24,4 +24,12 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Analyst-2563EB?style=for-the-badge" alt="Data Analyst">
+  <img src="https://img.shields.io/badge/Data%20Scientist-1D4ED8?style=for-the-badge" alt="Data Scientist">
+  <img src="https://img.shields.io/badge/SQL%20Expert-3B82F6?style=for-the-badge" alt="SQL Expert">
+  <img src="https://img.shields.io/badge/Power%20BI-60A5FA?style=for-the-badge" alt="Power BI">
+</div>
+
+
 
