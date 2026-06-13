@@ -112,6 +112,113 @@ Building an end-to-end data analytics project using Python, SQL, and Power BI �
 ![SQL](https://img.shields.io/badge/SQL-0c2a3f?style=for-the-badge&logoColor=38bdf8)
 ![Dashboard](https://img.shields.io/badge/Dashboard-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
  
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="35"> Education & Certifications
+
+<table>
+  <tr>
+    <td width="50%">
+      <img align="center" src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="50">
+      <h3>Integrated M.Tech</h3>
+      <p><strong>Computational and Data Science</strong></p>
+      <p>VIT Bhopal University</p>
+      <p>2020 - 2027</p>
+      <p><em>Pursuing advanced studies in Data Science with focus on practical applications and placement readiness.</em></p>
+    </td>
+    <td width="50%">
+      <img align="center" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50">
+      <h3>HackerRank 5-Star SQL</h3>
+      <p><strong>Advanced SQL Badge</strong></p>
+      <p>HackerRank</p>
+      <p>2024</p>
+      <p><em>Demonstrated advanced proficiency in SQL querying, joins, and database management.</em></p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technical Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 📊 Data Analysis & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+<details>
+  <summary>📊 More Skills</summary>
+  <br>
+  
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+  
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Personal Traits
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushmita-mandloi&show_icons=true&theme=radical&hide_border=true" width="49%" alt="Sushmita's Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmita-mandloi&theme=radical&hide_border=true" width="49%" alt="Sushmita's Github Streak">
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmita-mandloi&layout=compact&theme=radical&hide_border=true" width="42%" alt="Sushmita's Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=sushmita-mandloi&theme=radical&row=1&column=4&no-frame=true&no-bg=false" width="56%" alt="Sushmita's Trophies">
+</div>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushmita-mandloi&theme=redical&bg_color=141321&hide_border=true&line=8e2de2&point=ff64da" width="100%">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Let's Connect and Collaborate!
+I'm always excited to discuss new ideas, projects, and opportunities in the tech space.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sushmita-mandloi-6010112a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:sushmitamandloi05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://github.com/sushmita-mandloi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</div>
+
+<div align="center">
+  <h4>👀 Thank you for visiting my profile! 👀</h4>
+  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="bottom">
+</div>
+
+
+
