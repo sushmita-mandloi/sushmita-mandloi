@@ -113,3 +113,5 @@ Building an end-to-end data analytics project using Python, SQL, and Power BI â€
 ![Dashboard](https://img.shields.io/badge/Dashboard-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
  
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
