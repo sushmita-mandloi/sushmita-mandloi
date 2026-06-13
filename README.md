@@ -183,6 +183,46 @@ Building an end-to-end data analytics project using Python, SQL, and Power BI �
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Personal Traits
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://media.giphy.com/media/RlrmbRYn6OSNRKrTi8/giphy.gif" width="60">
+      <h3>🎨 Creative Mind</h3>
+      <p>Love painting, dance & art — creativity fuels my data thinking too!</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="60">
+      <h3>🔄 Adaptable</h3>
+      <p>Thriving in dynamic environments and embracing change</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://media.giphy.com/media/BoHCeLmEKytt7oFxyR/giphy.gif" width="60">
+      <h3>👥 Team Player</h3>
+      <p>Collaborating effectively and valuing diverse perspectives</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="60">
+      <h3>📚 Lifelong Learner</h3>
+      <p>Constantly seeking knowledge and embracing new challenges</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60">
+      <h3>🎯 Goal-Oriented</h3>
+      <p>Setting clear placement targets and working methodically to hit them</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60">
+      <h3>💡 Curious Analyst</h3>
+      <p>Always asking "why?" behind data patterns — the mark of a true analyst</p>
+    </td>
+  </tr>
+</table>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
