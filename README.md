@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sushmita-mandloi/sushmita-mandloi/main/assets/profile.png" width="150" style="border-radius:50%;" alt="Sushmita Mandloi"/>
+  <img src="https://raw.githubusercontent.com/sushmita-mandloi/sushmita-mandloi/main/profile.png" width="150" style="border-radius:50%;" alt="Sushmita Mandloi"/>
 </div>
 
 <div align="center">
