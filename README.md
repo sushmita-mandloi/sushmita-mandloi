@@ -121,53 +121,6 @@ Beyond technology, I enjoy painting, dance, and art & craft, which help me stay 
 
 </div>
 
-<div class="section">
-  <div class="sec-title"><i class="ti ti-school"></i> Education &amp; Certifications</div>
-  <div class="edu-grid">
-    <div class="edu-card">
-      <div class="edu-icon">🎓</div>
-      <h4>Integrated M.Tech</h4>
-      <div class="edu-inst">Artificial Intelligence and Machine Learning</div>
-      <div class="edu-inst">Vellore Institute of Technology</div>
-      <div class="edu-yr">2022 – 2027</div>
-      <p style="font-size:0.7rem; color:#6b7280; margin-top:6px; line-height:1.5;">Pursuing advanced studies in AI/ML with focus on practical applications and research opportunities.</p>
-    </div>
-    <div class="edu-card">
-      <div class="edu-icon">🏆</div>
-      <h4>Artificial Intelligence for Beginners</h4>
-      <div class="edu-inst">Certification · Alison</div>
-      <div class="edu-yr">2025</div>
-      <p style="font-size:0.7rem; color:#6b7280; margin-top:6px; line-height:1.5;">Comprehensive introduction to AI concepts, algorithms, and applications.</p>
-      <div style="margin-top:6px;"><a href="https://alison.com/certification/check/8b2bc32456" target="_blank" style="font-size:0.68rem; color:#38bdf8; text-decoration:none;">View Credential →</a></div>
-    </div>
-  </div>
-</div>
 
-<div class="section">
-  <div class="sec-title"><i class="ti ti-code"></i> Technical Skills</div>
-  <div class="skills-section">
-    <div class="skill-group">
-      <div class="skill-label"><span>💻</span> Programming Languages</div>
-      <div class="skill-tags">
-        <span class="sk sk-py">Python</span>
-        <span class="sk sk-misc">Java</span>
-        <span class="sk sk-misc">C++</span>
-        <span class="sk sk-sql">SQL</span>
-        <span class="sk sk-tool">HTML/CSS</span>
-      </div>
-    </div>
-    <div class="skill-group">
-      <div class="skill-label"><span>🤖</span> AI &amp; ML</div>
-      <div class="skill-tags">
-        <span class="sk sk-ml">TensorFlow</span>
-        <span class="sk sk-ml">PyTorch</span>
-        <span class="sk sk-ml">Scikit-learn</span>
-        <span class="sk sk-py">Pandas</span>
-        <span class="sk sk-py">NumPy</span>
-        <span class="sk sk-tool">Jupyter</span>
-      </div>
-    </div>
-  </div>
-</div>
 
 
