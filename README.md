@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sushmita-mandloi/sushmita-mandloi/main/assets/profile.png" width="150" style="border-radius:50%;" alt="Sushmita Mandloi"/>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sushmita-mandloi-6010112a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
