@@ -83,4 +83,91 @@ Beyond technology, I enjoy painting, dance, and art & craft, which help me stay 
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Journey
 
+<div class="section">
+  <div class="sec-title"><i class="ti ti-briefcase"></i> Professional Journey</div>
+
+  <div class="timeline-item">
+    <div class="tl-dot-col"><div class="tl-dot"></div><div class="tl-line"></div></div>
+    <div class="tl-content">
+      <h4>Data Science Intern</h4>
+      <div class="tl-org">CodeSoft</div>
+      <div class="tl-date">2024 · Internship</div>
+      <p>Applied Python and ML techniques to real-world datasets, built predictive models, and performed end-to-end exploratory data analysis to derive business insights.</p>
+      <div class="tag-row"><span class="tag t-data">PYTHON</span><span class="tag t-data">EDA</span><span class="tag t-ai">MACHINE LEARNING</span><span class="tag t-data">SQL</span></div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="tl-dot-col"><div class="tl-dot"></div><div class="tl-line"></div></div>
+    <div class="tl-content">
+      <h4>GSSoC 2026 Contributor</h4>
+      <div class="tl-org">GirlScript Summer of Code</div>
+      <div class="tl-date">2026 · Open Source Contribution</div>
+      <p>Contributing to real-world open source projects, enhancing coding skills, collaborating with developers worldwide, and building a portfolio of production-level code.</p>
+      <div class="tag-row"><span class="tag t-dev">OPEN SOURCE</span><span class="tag t-dev">COLLABORATIVE DEVELOPMENT</span><span class="tag t-dev">CODE REVIEW</span></div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="tl-dot-col"><div class="tl-dot"></div></div>
+    <div class="tl-content">
+      <h4>Data Analytics Portfolio Builder</h4>
+      <div class="tl-org">Self-Initiated Project</div>
+      <div class="tl-date">2024 – Present</div>
+      <p>Building an end-to-end data analytics project using Python, SQL, and Power BI — covering data cleaning, EDA, SQL querying, and interactive dashboards on customer shopping behavior.</p>
+      <div class="tag-row"><span class="tag t-data">POWER BI</span><span class="tag t-data">PYTHON</span><span class="tag t-data">SQL</span><span class="tag t-bi">DASHBOARD</span></div>
+    </div>
+  </div>
+
+</div>
+
+<div class="section">
+  <div class="sec-title"><i class="ti ti-school"></i> Education &amp; Certifications</div>
+  <div class="edu-grid">
+    <div class="edu-card">
+      <div class="edu-icon">🎓</div>
+      <h4>Integrated M.Tech</h4>
+      <div class="edu-inst">Artificial Intelligence and Machine Learning</div>
+      <div class="edu-inst">Vellore Institute of Technology</div>
+      <div class="edu-yr">2022 – 2027</div>
+      <p style="font-size:0.7rem; color:#6b7280; margin-top:6px; line-height:1.5;">Pursuing advanced studies in AI/ML with focus on practical applications and research opportunities.</p>
+    </div>
+    <div class="edu-card">
+      <div class="edu-icon">🏆</div>
+      <h4>Artificial Intelligence for Beginners</h4>
+      <div class="edu-inst">Certification · Alison</div>
+      <div class="edu-yr">2025</div>
+      <p style="font-size:0.7rem; color:#6b7280; margin-top:6px; line-height:1.5;">Comprehensive introduction to AI concepts, algorithms, and applications.</p>
+      <div style="margin-top:6px;"><a href="https://alison.com/certification/check/8b2bc32456" target="_blank" style="font-size:0.68rem; color:#38bdf8; text-decoration:none;">View Credential →</a></div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="sec-title"><i class="ti ti-code"></i> Technical Skills</div>
+  <div class="skills-section">
+    <div class="skill-group">
+      <div class="skill-label"><span>💻</span> Programming Languages</div>
+      <div class="skill-tags">
+        <span class="sk sk-py">Python</span>
+        <span class="sk sk-misc">Java</span>
+        <span class="sk sk-misc">C++</span>
+        <span class="sk sk-sql">SQL</span>
+        <span class="sk sk-tool">HTML/CSS</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="skill-label"><span>🤖</span> AI &amp; ML</div>
+      <div class="skill-tags">
+        <span class="sk sk-ml">TensorFlow</span>
+        <span class="sk sk-ml">PyTorch</span>
+        <span class="sk sk-ml">Scikit-learn</span>
+        <span class="sk sk-py">Pandas</span>
+        <span class="sk sk-py">NumPy</span>
+        <span class="sk sk-tool">Jupyter</span>
+      </div>
+    </div>
+  </div>
+</div>
+
 
