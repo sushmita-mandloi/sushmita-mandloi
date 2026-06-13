@@ -123,20 +123,33 @@ Building an end-to-end data analytics project using Python, SQL, and Power BI �
 <table>
   <tr>
     <td width="50%">
-      <img align="center" src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="50">
-      <h3>Integrated M.Tech</h3>
-      <p><strong>Computational and Data Science</strong></p>
-      <p>VIT Bhopal University</p>
-      <p>2020 - 2027</p>
-      <p><em>Pursuing advanced studies in Data Science with focus on practical applications and placement readiness.</em></p>
+      <h3>🎓 Integrated M.Tech</h3>
+      <p><strong>VIT Bhopal University</strong></p>
+      <p>CSE – Computational & Data Science</p>
+      <p>2020 – 2027 · Final Year</p>
     </td>
     <td width="50%">
-      <img align="center" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50">
-      <h3>HackerRank 5-Star SQL</h3>
-      <p><strong>Advanced SQL Badge</strong></p>
-      <p>HackerRank</p>
-      <p>2024</p>
-      <p><em>Demonstrated advanced proficiency in SQL querying, joins, and database management.</em></p>
+      <h3>🏆 HackerRank 5-Star SQL</h3>
+      <p><strong>HackerRank</strong></p>
+      <p>Advanced SQL Badge · 2024</p>
+      <img src="https://img.shields.io/badge/5★_BADGE-0e7490?style=for-the-badge" alt="5 Star Badge">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h4>📊 Power BI Analytics</h4>
+      <p>Microsoft · 2024</p>
+    </td>
+    <td width="33%" align="center">
+      <h4>🐍 Python Programming</h4>
+      <p>HackerRank · 2024</p>
+    </td>
+    <td width="33%" align="center">
+      <h4>🤖 Data Science Intern</h4>
+      <p>CodeSoft · 2024</p>
     </td>
   </tr>
 </table>
