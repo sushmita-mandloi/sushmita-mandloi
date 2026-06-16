@@ -172,12 +172,12 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Journey
 
-### 📊 Data Science Intern
+<details>
+<summary><b> ### 📊 Data Science Intern
 **CodeSoft | 2024 · Internship**
-
-<br/> 
-Applied Python and ML techniques to real-world datasets, built predictive models, and performed end-to-end exploratory data analysis to derive business insights.
 <br/>
+Applied Python and ML techniques to real-world datasets, built predictive models, and performed end-to-end exploratory data analysis to derive business insights.
+
  
 ![Python](https://img.shields.io/badge/Python-0c2a3f?style=for-the-badge&logoColor=38bdf8)
 ![EDA](https://img.shields.io/badge/EDA-0c2a3f?style=for-the-badge&logoColor=38bdf8)
@@ -198,7 +198,7 @@ Contributing to real-world open source projects, enhancing coding skills, collab
 **Kanchan Education & Welfare Society | Internship**
 <br/>
 Built ETL pipelines and analytical reporting solutions to support organizational decision-making and improve data accessibility across departments.
-<br/>
+
 
 ![ETL](https://img.shields.io/badge/ETL-0c2a3f?style=for-the-badge&logoColor=38bdf8)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0c2a3f?style=for-the-badge&logoColor=38bdf8)
