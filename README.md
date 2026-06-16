@@ -216,8 +216,8 @@ Built ETL pipelines and analytical reporting solutions to support organizational
       <p>2020 – 2027 · Final Year</p>
     </td>
     <td width="50%">
-      <h3>🏆 HackerRank 5-Star SQL</h3>![HackerRank](https://img.shields.io/badge/HackerRank-⭐⭐⭐⭐⭐-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
-      <p><strong>HackerRank</strong></p>![HackerRank](https://img.shields.io/badge/HackerRank-Advanced-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
+      <h3>🏆 HackerRank 5-Star SQL</h3>
+      <p><strong>HackerRank</strong></p>
       <p>Advanced SQL Badge · 2024</p>
       <img src="https://img.shields.io/badge/5★_BADGE-0e7490?style=for-the-badge" alt="5 Star Badge">
     </td>
