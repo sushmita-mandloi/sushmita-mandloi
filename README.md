@@ -148,6 +148,39 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 ---
 
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Journey
+
+### 📊 Data Science Intern
+*CodeSoft | 2024 · Internship*
+ 
+Applied Python and ML techniques to real-world datasets, built predictive models, and performed end-to-end exploratory data analysis to derive business insights.
+ 
+![Python](https://img.shields.io/badge/Python-0c2a3f?style=for-the-badge&logoColor=38bdf8)
+![EDA](https://img.shields.io/badge/EDA-0c2a3f?style=for-the-badge&logoColor=38bdf8)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0f2a1e?style=for-the-badge&logoColor=34d399)
+![SQL](https://img.shields.io/badge/SQL-0c2a3f?style=for-the-badge&logoColor=38bdf8)
+ 
+### 🌐 GSSoC 2026 Contributor
+*GirlScript Summer of Code | 2026 · Open Source Contribution*
+ 
+Contributing to real-world open source projects, enhancing coding skills, collaborating with developers worldwide, and building a portfolio of production-level code.
+ 
+![Open Source](https://img.shields.io/badge/Open_Source-2a1800?style=for-the-badge&logoColor=fbbf24)
+![Collaborative Development](https://img.shields.io/badge/Collaborative_Development-2a1800?style=for-the-badge&logoColor=fbbf24)
+![Code Review](https://img.shields.io/badge/Code_Review-2a1800?style=for-the-badge&logoColor=fbbf24)
+ 
+### 📈 Data Analytics Portfolio Builder
+*Self-Initiated Project | 2024 – Present*
+ 
+Building an end-to-end data analytics project using Python, SQL, and Power BI — covering data cleaning, EDA, SQL querying, and interactive dashboards on customer shopping behavior.
+ 
+![Power BI](https://img.shields.io/badge/Power_BI-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
+![Python](https://img.shields.io/badge/Python-0c2a3f?style=for-the-badge&logoColor=38bdf8)
+![SQL](https://img.shields.io/badge/SQL-0c2a3f?style=for-the-badge&logoColor=38bdf8)
+![Dashboard](https://img.shields.io/badge/Dashboard-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
