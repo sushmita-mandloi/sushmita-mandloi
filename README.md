@@ -191,16 +191,21 @@ Contributing to real-world open source projects, enhancing coding skills, collab
 ![Collaborative Development](https://img.shields.io/badge/Collaborative_Development-2a1800?style=for-the-badge&logoColor=fbbf24)
 ![Code Review](https://img.shields.io/badge/Code_Review-2a1800?style=for-the-badge&logoColor=fbbf24)
  
-### 📈 Data Analytics Portfolio Builder
-**Self-Initiated Project | 2024 – Present**
- 
-Building an end-to-end data analytics project using Python, SQL, and Power BI — covering data cleaning, EDA, SQL querying, and interactive dashboards on customer shopping behavior.
- 
-![Power BI](https://img.shields.io/badge/Power_BI-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
-![Python](https://img.shields.io/badge/Python-0c2a3f?style=for-the-badge&logoColor=38bdf8)
-![SQL](https://img.shields.io/badge/SQL-0c2a3f?style=for-the-badge&logoColor=38bdf8)
-![Dashboard](https://img.shields.io/badge/Dashboard-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
- 
+### 📊 Data Analyst Intern
+**Kanchan Education & Welfare Society | Internship**
+
+Built ETL pipelines and analytical reporting solutions to support organizational decision-making and improve data accessibility across departments.
+
+![ETL](https://img.shields.io/badge/ETL-0c2a3f?style=for-the-badge&logoColor=38bdf8)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0c2a3f?style=for-the-badge&logoColor=38bdf8)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
+
+- Built **ETL pipelines** to consolidate and transform organizational data from multiple sources
+- Designed analytical dashboards to surface actionable business insights for leadership teams
+- Performed data cleaning, transformation, and validation to ensure reporting accuracy
+- Delivered structured reports with KPI summaries, enabling data-driven decision-making across departments
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="35"> Education & Certifications
