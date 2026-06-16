@@ -172,10 +172,8 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Journey
 
-<details>
-<summary><b> ### 📊 Data Science Intern
+### 📊 Data Science Intern
 **CodeSoft | 2024 · Internship**
-<br/>
 Applied Python and ML techniques to real-world datasets, built predictive models, and performed end-to-end exploratory data analysis to derive business insights.
 
  
@@ -205,15 +203,6 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 ![Dashboarding](https://img.shields.io/badge/Dashboarding-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
 ![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
 
-<br/>
-
-- Built **ETL pipelines** to consolidate and transform organizational data from multiple sources
-- Designed analytical dashboards to surface actionable business insights for leadership teams
-- Performed data cleaning, transformation, and validation to ensure reporting accuracy
-- Delivered structured reports with KPI summaries, enabling data-driven decision-making across departments
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.gif" width="35"> Education & Certifications
@@ -227,8 +216,8 @@ Built ETL pipelines and analytical reporting solutions to support organizational
       <p>2020 – 2027 · Final Year</p>
     </td>
     <td width="50%">
-      <h3>🏆 HackerRank 5-Star SQL</h3>
-      <p><strong>HackerRank</strong></p>
+      <h3>🏆 HackerRank 5-Star SQL</h3>![HackerRank](https://img.shields.io/badge/HackerRank-⭐⭐⭐⭐⭐-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
+      <p><strong>HackerRank</strong></p>![HackerRank](https://img.shields.io/badge/HackerRank-Advanced-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
       <p>Advanced SQL Badge · 2024</p>
       <img src="https://img.shields.io/badge/5★_BADGE-0e7490?style=for-the-badge" alt="5 Star Badge">
     </td>
