@@ -311,8 +311,6 @@ Built ETL pipelines and analytical reporting solutions to support organizational
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmita-mandloi&layout=compact&theme=radical&hide_border=true" width="42%" alt="Sushmita's Top Languages">
   <img src="https://github-profile-trophy.vercel.app/?username=sushmita-mandloi&theme=radical&row=1&column=4&no-frame=true&no-bg=false" width="56%" alt="Sushmita's Trophies">
 </div>
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushmita-mandloi&theme=redical&bg_color=141321&hide_border=true&line=8e2de2&point=ff64da" width="100%">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
