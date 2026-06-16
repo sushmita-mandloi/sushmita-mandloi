@@ -29,9 +29,15 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushmita-mandloi\&style=for-the-badge\&color=6A0DAD\&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/sushmita-mandloi?style=for-the-badge&logo=github&logoColor=white&color=5B21B6&label=FOLLOWERS)](https://github.com/sushmita-mandloi?tab=followers)
+&nbsp;
+![GitHub Stars](https://img.shields.io/badge/STARS-0-7B2FBE?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
-```markdown
+---
+
 ## ◈ About
 
 <div align="center">
@@ -40,7 +46,7 @@
 
 </div>
 
-I am a **Software Engineer and Data Analyst** pursuing an Integrated M.Tech in Computer Science & Engineering (Computational & Data Science) at **VIT Bhopal University**. My work focuses on data analytics, business intelligence, SQL, Python, and visualization, with an interest in turning complex datasets into meaningful business insights.
+I am a **Software Engineer and Data Analyst** pursuing an Integrated M.Tech in Computer Science & Engineering (Computational & Data Science) at **VIT Bhopal University**. My work focuses on data analytics, business intelligence, SQL, Python, and visualization, with a strong interest in turning complex datasets into meaningful business insights.
 
 I enjoy working across the complete analytics workflow — from data cleaning, transformation, and exploratory analysis to dashboard development and insight generation. My background in both software engineering and data analytics allows me to approach problems with a balance of technical implementation and business understanding.
 
@@ -52,15 +58,19 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 **Open To:**
 
-![DA Internship](https://img.shields.io/badge/Open%20To-Data%20Analytics%20Internships-6A0DAD?style=flat-square&logoColor=white)
+**Open To:**
+
+![SWE Internship](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-6A0DAD?style=flat-square&logoColor=white)
 &nbsp;
-![DA Roles](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-5B21B6?style=flat-square&logoColor=white)
+![SWE Roles](https://img.shields.io/badge/Open%20To-Software%20Engineer%20Roles-5B21B6?style=flat-square&logoColor=white)
 &nbsp;
-![BI Roles](https://img.shields.io/badge/Open%20To-Business%20Intelligence%20Roles-7B2FBE?style=flat-square&logoColor=white)
+![DA Internship](https://img.shields.io/badge/Open%20To-Data%20Analytics%20Internships-7B2FBE?style=flat-square&logoColor=white)
+&nbsp;
+![DA Roles](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-8e2de2?style=flat-square&logoColor=white)
+&nbsp;
+![BI Roles](https://img.shields.io/badge/Open%20To-Business%20Intelligence%20Roles-9333EA?style=flat-square&logoColor=white)
 
 ---
-```
-
 
 
 
