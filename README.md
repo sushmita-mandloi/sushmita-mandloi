@@ -58,8 +58,6 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 **Open To:**
 
-**Open To:**
-
 ![SWE Internship](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-6A0DAD?style=flat-square&logoColor=white)
 &nbsp;
 ![SWE Roles](https://img.shields.io/badge/Open%20To-Software%20Engineer%20Roles-5B21B6?style=flat-square&logoColor=white)
@@ -69,6 +67,23 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 ![DA Roles](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-8e2de2?style=flat-square&logoColor=white)
 &nbsp;
 ![BI Roles](https://img.shields.io/badge/Open%20To-Business%20Intelligence%20Roles-9333EA?style=flat-square&logoColor=white)
+
+---
+
+## ◈ Core Strengths
+
+<div align="center">
+
+| Strength | Description |
+|-----------|-------------|
+| 📊 Data Analytics | Transforming raw data into actionable business insights |
+| 📈 Business Intelligence | Building interactive dashboards and KPI-driven reports |
+| 🗄️ SQL & Databases | Writing efficient queries and managing structured data |
+| 🐍 Programming | Developing analytical solutions using Python and SQL |
+| 🧩 Problem Solving | Applying analytical thinking to solve real-world challenges |
+| 🚀 Continuous Learning | Constantly improving technical and professional skills |
+
+</div>
 
 ---
 
