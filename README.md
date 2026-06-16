@@ -335,7 +335,7 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 </picture>
 
 </div>
-
+ 
 > **Setup:** Add a GitHub Actions workflow to generate the snake animation. Create `.github/workflows/snake.yml` with the `Platane/snk` action to automate daily regeneration.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
