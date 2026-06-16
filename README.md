@@ -326,6 +326,8 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Contribution Snake
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Contribution Snake
+
 <div align="center">
 
 <picture>
@@ -335,8 +337,8 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 </picture>
 
 </div>
- 
-> **Setup:** Add a GitHub Actions workflow to generate the snake animation. Create `.github/workflows/snake.yml` with the `Platane/snk` action to automate daily regeneration.
+
+> **Note:** Configure a GitHub Actions workflow using `Platane/snk` to automatically generate and update the contribution snake animation daily.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
