@@ -52,13 +52,35 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm an aspiring Data Analyst and Data Science enthusiast currently pursuing an Integrated M.Tech in Computer Science & Engineering (Computational and Data Science) at VIT Bhopal University. With a strong passion for data, analytics, and business intelligence, I enjoy transforming raw datasets into meaningful insights that support smarter decision-making.
+<div align="center">
 
-My technical journey is complemented by strong problem-solving, communication, and collaboration skills, allowing me to work effectively in teams, contribute to open-source initiatives, and communicate analytical findings in a clear and impactful manner.
+> *Transforming data into actionable insights through analytics, business intelligence, and data-driven solutions.*
 
-I thrive on continuous learning and embrace challenges that help me grow professionally. Whether it's solving SQL problems, building Power BI dashboards, performing data analysis with Python, or contributing to real-world projects, I approach every opportunity with curiosity, consistency, and determination.
+</div>
 
-Beyond technology, I enjoy painting, dance, and art & craft, which help me stay creative and bring fresh perspectives to analytical thinking.
+I am a **Software Engineer and Data Analyst** pursuing an Integrated M.Tech in Computer Science & Engineering (Computational & Data Science) at **VIT Bhopal University**. My work focuses on data analytics, business intelligence, SQL, Python, and visualization, with a strong interest in turning complex datasets into meaningful business insights.
+
+I enjoy working across the complete analytics workflow — from data cleaning, transformation, and exploratory analysis to dashboard development and insight generation. My background in both software engineering and data analytics allows me to approach problems with a balance of technical implementation and business understanding.
+
+I strive to build solutions that are reliable, scalable, and impactful while continuously improving my analytical and problem-solving abilities.
+
+**Core mindset:** Production-grade quality, clean code principles, and data-driven decision making.
+
+<br/>
+
+**Open To:**
+
+![SWE Internship](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-6A0DAD?style=flat-square&logoColor=white)
+&nbsp;
+![SWE Roles](https://img.shields.io/badge/Open%20To-Software%20Engineer%20Roles-5B21B6?style=flat-square&logoColor=white)
+&nbsp;
+![DA Internship](https://img.shields.io/badge/Open%20To-Data%20Analytics%20Internships-7B2FBE?style=flat-square&logoColor=white)
+&nbsp;
+![DA Roles](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-8e2de2?style=flat-square&logoColor=white)
+&nbsp;
+![BI Roles](https://img.shields.io/badge/Open%20To-Business%20Intelligence%20Roles-9333EA?style=flat-square&logoColor=white)
+
+---
 
 ### 💪 Core Strengths
 
