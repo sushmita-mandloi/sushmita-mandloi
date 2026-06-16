@@ -128,6 +128,22 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> ◈ Software Engineering Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| **Data Structures & Algorithms** | `Advanced` | Problem solving, competitive programming, optimization |
+| **System Design Fundamentals** | `Intermediate` | Scalable architecture, backend design principles |
+| **Database Design** | `Intermediate` | SQL optimization, schema design, indexing |
+| **Frontend Integration** | `Intermediate` | Streamlit-based UI development |
+| **Software Engineering Practices** | `Advanced` | Clean code, modular design, debugging |
+| **Problem Solving** | `Advanced` | Logical reasoning, coding interviews, optimization |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💪 Core Strengths
 
@@ -225,7 +241,7 @@ Building an end-to-end data analytics project using Python, SQL, and Power BI �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technical Skills
+
 
 
 
