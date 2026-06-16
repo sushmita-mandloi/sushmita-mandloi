@@ -30,34 +30,37 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushmita-mandloi\&style=for-the-badge\&color=6A0DAD\&label=PROFILE+VIEWS)
 
+
 ```markdown
-## ◈ About Me
+## ◈ About
 
-I am a **Software Engineer** and **Data Analyst** pursuing an **Integrated M.Tech in Computer Science & Engineering (Computational & Data Science)** at **VIT Bhopal University**.
+<div align="center">
 
-I am passionate about transforming raw data into meaningful insights and building impactful solutions through technology. My interests span **Data Analytics, SQL, Python, Power BI, Business Intelligence, and Problem Solving**.
+> *Transforming data into actionable insights through analytics, business intelligence, and data-driven solutions.*
 
-💡 **Core Mindset:** Production-grade quality, clean code principles, and data-driven decision making.
+</div>
 
-🚀 I enjoy working with data, uncovering patterns, building dashboards, and solving real-world challenges through analytical thinking and technology.
+I am a **Software Engineer and Data Analyst** pursuing an Integrated M.Tech in Computer Science & Engineering (Computational & Data Science) at **VIT Bhopal University**. My work focuses on data analytics, business intelligence, SQL, Python, and visualization, with an interest in turning complex datasets into meaningful business insights.
 
-### Current Focus
+I enjoy working across the complete analytics workflow — from data cleaning, transformation, and exploratory analysis to dashboard development and insight generation. My background in both software engineering and data analytics allows me to approach problems with a balance of technical implementation and business understanding.
 
-- Advanced SQL & Database Management
-- Data Analytics & Business Intelligence
-- Power BI Dashboard Development
-- Machine Learning Fundamentals
-- Open Source Contributions
+I strive to build solutions that are reliable, scalable, and impactful while continuously improving my analytical and problem-solving abilities.
 
-### Open To
+**Core mindset:** Production-grade quality, clean code principles, and data-driven decision making.
 
-- Data Analyst Roles
-- Data Analytics Internships
-- Business Intelligence Opportunities
-- Open Source Collaborations
+<br/>
+
+**Open To:**
+
+![DA Internship](https://img.shields.io/badge/Open%20To-Data%20Analytics%20Internships-6A0DAD?style=flat-square&logoColor=white)
+&nbsp;
+![DA Roles](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-5B21B6?style=flat-square&logoColor=white)
+&nbsp;
+![BI Roles](https://img.shields.io/badge/Open%20To-Business%20Intelligence%20Roles-7B2FBE?style=flat-square&logoColor=white)
 
 ---
 ```
+
 
 
 
