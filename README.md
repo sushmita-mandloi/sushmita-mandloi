@@ -95,6 +95,59 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## ◈ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Software Engineering & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-5B21B6?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## ◈ Software Engineering Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| **Data Analytics** | `Advanced` | Data Cleaning, EDA, Reporting, KPI Analysis |
+| **SQL & Databases** | `Advanced` | Joins, CTEs, Window Functions, Query Optimization |
+| **Business Intelligence** | `Advanced` | Power BI Dashboards, Data Visualization |
+| **Programming** | `Intermediate` | Python, SQL, Java |
+| **Software Engineering Practices** | `Advanced` | Clean Code, Debugging, Version Control |
+| **Problem Solving** | `Advanced` | Analytical Thinking, SQL Challenges, DSA |
+| **Data Visualization** | `Advanced` | Power BI, Matplotlib, Dashboard Design |
+
+</div>
+
+---
+
 
 
 
