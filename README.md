@@ -174,8 +174,10 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 ### 📊 Data Science Intern
 **CodeSoft | 2024 · Internship**
- 
+
+<br/> 
 Applied Python and ML techniques to real-world datasets, built predictive models, and performed end-to-end exploratory data analysis to derive business insights.
+<br/>
  
 ![Python](https://img.shields.io/badge/Python-0c2a3f?style=for-the-badge&logoColor=38bdf8)
 ![EDA](https://img.shields.io/badge/EDA-0c2a3f?style=for-the-badge&logoColor=38bdf8)
@@ -184,8 +186,9 @@ Applied Python and ML techniques to real-world datasets, built predictive models
  
 ### 🌐 GSSoC 2026 Contributor
 **GirlScript Summer of Code | 2026 · Open Source Contribution**
- 
+<br/> 
 Contributing to real-world open source projects, enhancing coding skills, collaborating with developers worldwide, and building a portfolio of production-level code.
+<br/>
  
 ![Open Source](https://img.shields.io/badge/Open_Source-2a1800?style=for-the-badge&logoColor=fbbf24)
 ![Collaborative Development](https://img.shields.io/badge/Collaborative_Development-2a1800?style=for-the-badge&logoColor=fbbf24)
@@ -193,18 +196,23 @@ Contributing to real-world open source projects, enhancing coding skills, collab
  
 ### 📊 Data Analyst Intern
 **Kanchan Education & Welfare Society | Internship**
-
+<br/>
 Built ETL pipelines and analytical reporting solutions to support organizational decision-making and improve data accessibility across departments.
+<br/>
 
 ![ETL](https://img.shields.io/badge/ETL-0c2a3f?style=for-the-badge&logoColor=38bdf8)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0c2a3f?style=for-the-badge&logoColor=38bdf8)
 ![Dashboarding](https://img.shields.io/badge/Dashboarding-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
 ![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-2a0f1e?style=for-the-badge&logoColor=f9a8d4)
 
+<br/>
+
 - Built **ETL pipelines** to consolidate and transform organizational data from multiple sources
 - Designed analytical dashboards to surface actionable business insights for leadership teams
 - Performed data cleaning, transformation, and validation to ensure reporting accuracy
 - Delivered structured reports with KPI summaries, enabling data-driven decision-making across departments
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
