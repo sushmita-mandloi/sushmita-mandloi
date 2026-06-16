@@ -340,20 +340,29 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Current Focus
 
-**Learning:**
-- Advanced SQL & Query Optimization
-- Data Analytics & Business Intelligence
-- ETL Pipelines & Data Engineering Fundamentals
-- Machine Learning Fundamentals
-- Advanced DSA
+<div align="center">
 
-**Open To:**
-- Data Analytics Internships
-- Data Analyst Roles
-- Software Engineering Internships
-- Software Engineer Roles
-- Open Source Contributions
-- Hackathons & Collaborations
+### 📚 Currently Learning
+
+![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-6A0DAD?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-5B21B6?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-7B2FBE?style=for-the-badge)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-8e2de2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-9333EA?style=for-the-badge)
+![Advanced DSA](https://img.shields.io/badge/Advanced_DSA-A855F7?style=for-the-badge)
+
+<br/>
+
+### 🚀 Open To
+
+![Data Analytics Internships](https://img.shields.io/badge/Data_Analytics_Internships-6A0DAD?style=for-the-badge)
+![Data Analyst Roles](https://img.shields.io/badge/Data_Analyst_Roles-5B21B6?style=for-the-badge)
+![Software Engineering Internships](https://img.shields.io/badge/SWE_Internships-7B2FBE?style=for-the-badge)
+![Software Engineer Roles](https://img.shields.io/badge/Software_Engineer_Roles-8e2de2?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributions-9333EA?style=for-the-badge)
+![Hackathons](https://img.shields.io/badge/Hackathons_&_Collaborations-A855F7?style=for-the-badge)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
