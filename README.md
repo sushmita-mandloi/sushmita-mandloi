@@ -286,7 +286,19 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Coding Profiles
 
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-sushmitamandloi08-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sushmitamandloi08/)
+&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sushmitamq9lw-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sushmitamq9lw/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-sushmitamandloi1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sushmitamandloi1)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
@@ -301,6 +313,51 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 </div>
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushmita-mandloi&theme=redical&bg_color=141321&hide_border=true&line=8e2de2&point=ff64da" width="100%">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Contribution Activity
+
+<div align="center">
+
+[![Sushmita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushmita-mandloi&bg_color=0d1117&color=A855F7&line=6A0DAD&point=7B2FBE&area=true&area_color=5B21B6&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushmita-mandloi/sushmita-mandloi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushmita-mandloi/sushmita-mandloi/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sushmita-mandloi/sushmita-mandloi/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> **Setup:** Add a GitHub Actions workflow to generate the snake animation. Create `.github/workflows/snake.yml` with the `Platane/snk` action to automate daily regeneration.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Current Focus
+
+**Learning:**
+- Advanced SQL & Query Optimization
+- Data Analytics & Business Intelligence
+- ETL Pipelines & Data Engineering Fundamentals
+- Machine Learning Fundamentals
+- Advanced DSA
+
+**Open To:**
+- Data Analytics Internships
+- Data Analyst Roles
+- Software Engineering Internships
+- Software Engineer Roles
+- Open Source Contributions
+- Hackathons & Collaborations
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -323,6 +380,13 @@ I'm always excited to discuss new ideas, projects, and opportunities in the tech
   <h4>👀 Thank you for visiting my profile! 👀</h4>
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="bottom">
+</div>
+
+<div align="center">
+
+*"Consistency beats intensity — small daily improvements lead to massive results over time."*
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,5B21B6&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
 
 
