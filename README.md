@@ -29,6 +29,29 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushmita-mandloi\&style=for-the-badge\&color=6A0DAD\&label=PROFILE+VIEWS)
+
+## ◈ About Me
+
+<div align="center">
+
+> *Transforming raw data into actionable insights through analytics, visualization, and business intelligence.*
+
+</div>
+
+I am an aspiring **Data Analyst** pursuing an **Integrated M.Tech in Computer Science & Engineering (Computational & Data Science)** at **VIT Bhopal University**.
+
+My interests lie in **Data Analytics, SQL, Power BI, Python, Business Intelligence, and Data Visualization**. I enjoy working with data, uncovering trends, and building dashboards that help drive smarter business decisions.
+
+I believe in continuous learning, problem-solving, and creating impactful solutions through data. Alongside technical skills, I value teamwork, communication, and adaptability that help me contribute effectively in collaborative environments.
+
+### Open To
+
+![Data Analyst](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-6A0DAD?style=flat-square)
+![Internships](https://img.shields.io/badge/Open%20To-Internships-5B21B6?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Open%20To-BI%20Roles-7B2FBE?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20To-Open%20Source-8e2de2?style=flat-square)
+
+---
  
 [![GitHub Followers](https://img.shields.io/github/followers/sushmita-mandloi?style=for-the-badge\&logo=github\&logoColor=white\&color=5B21B6\&label=FOLLOWERS)](https://github.com/sushmita-mandloi?tab=followers)
 
