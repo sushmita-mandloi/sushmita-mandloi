@@ -30,34 +30,35 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushmita-mandloi\&style=for-the-badge\&color=6A0DAD\&label=PROFILE+VIEWS)
 
+```markdown
 ## ◈ About Me
 
-<div align="center">
+I am a **Software Engineer** and **Data Analyst** pursuing an **Integrated M.Tech in Computer Science & Engineering (Computational & Data Science)** at **VIT Bhopal University**.
 
-> *Transforming raw data into actionable insights through analytics, visualization, and business intelligence.*
+I am passionate about transforming raw data into meaningful insights and building impactful solutions through technology. My interests span **Data Analytics, SQL, Python, Power BI, Business Intelligence, and Problem Solving**.
 
-</div>
+💡 **Core Mindset:** Production-grade quality, clean code principles, and data-driven decision making.
 
-I am an aspiring **Data Analyst** pursuing an **Integrated M.Tech in Computer Science & Engineering (Computational & Data Science)** at **VIT Bhopal University**.
+🚀 I enjoy working with data, uncovering patterns, building dashboards, and solving real-world challenges through analytical thinking and technology.
 
-My interests lie in **Data Analytics, SQL, Power BI, Python, Business Intelligence, and Data Visualization**. I enjoy working with data, uncovering trends, and building dashboards that help drive smarter business decisions.
+### Current Focus
 
-I believe in continuous learning, problem-solving, and creating impactful solutions through data. Alongside technical skills, I value teamwork, communication, and adaptability that help me contribute effectively in collaborative environments.
+- Advanced SQL & Database Management
+- Data Analytics & Business Intelligence
+- Power BI Dashboard Development
+- Machine Learning Fundamentals
+- Open Source Contributions
 
 ### Open To
 
-![Data Analyst](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-6A0DAD?style=flat-square)
-![Internships](https://img.shields.io/badge/Open%20To-Internships-5B21B6?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/Open%20To-BI%20Roles-7B2FBE?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20To-Open%20Source-8e2de2?style=flat-square)
+- Data Analyst Roles
+- Data Analytics Internships
+- Business Intelligence Opportunities
+- Open Source Collaborations
 
 ---
- 
-[![GitHub Followers](https://img.shields.io/github/followers/sushmita-mandloi?style=for-the-badge\&logo=github\&logoColor=white\&color=5B21B6\&label=FOLLOWERS)](https://github.com/sushmita-mandloi?tab=followers)
+```
 
-</div>
-
----
 
 
 
