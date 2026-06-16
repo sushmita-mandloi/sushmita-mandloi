@@ -70,22 +70,32 @@ I strive to build solutions that are reliable, scalable, and impactful while con
 
 ---
 
-## ◈ Core Strengths
+### 💪 Core Strengths
 
-<div align="center">
+<table>
+  <tr>
+    <td width="25%">
+      <h3 align="center">📊 Data Storyteller</h3>
+      <p align="center">Transforming raw datasets into meaningful insights through analysis, visualization, and business-focused reporting.</p>
+    </td>
+    <td width="25%">
+      <h3 align="center">🧩 Problem Solver</h3>
+      <p align="center">Analytical thinker who enjoys solving complex business and data challenges using structured approaches.</p>
+    </td>
+    <td width="25%">
+      <h3 align="center">📈 Business Intelligence</h3>
+      <p align="center">Passionate about creating dashboards and reports that support data-driven decision making.</p>
+    </td>
+    <td width="25%">
+      <h3 align="center">📚 Continuous Learner</h3>
+      <p align="center">Constantly improving skills in Data Analytics, SQL, Power BI, Python, and Machine Learning.</p>
+    </td>
+  </tr>
+</table>
 
-| Strength | Description |
-|-----------|-------------|
-| 📊 Data Analytics | Transforming raw data into actionable business insights |
-| 📈 Business Intelligence | Building interactive dashboards and KPI-driven reports |
-| 🗄️ SQL & Databases | Writing efficient queries and managing structured data |
-| 🐍 Programming | Developing analytical solutions using Python and SQL |
-| 🧩 Problem Solving | Applying analytical thinking to solve real-world challenges |
-| 🚀 Continuous Learning | Constantly improving technical and professional skills |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
 
----
 
 
 
