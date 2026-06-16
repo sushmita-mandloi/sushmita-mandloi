@@ -243,10 +243,6 @@ Built ETL pipelines and analytical reporting solutions to support organizational
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Personal Traits
 
 <table>
@@ -287,6 +283,10 @@ Built ETL pipelines and analytical reporting solutions to support organizational
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
